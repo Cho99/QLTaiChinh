@@ -1,0 +1,10 @@
+C:\Users\MyPC\source\repos\QLTaiChinh\QLTaiChinh\bin\Debug\QLTaiChinh.exe.config
+C:\Users\MyPC\source\repos\QLTaiChinh\QLTaiChinh\bin\Debug\QLTaiChinh.exe
+C:\Users\MyPC\source\repos\QLTaiChinh\QLTaiChinh\bin\Debug\QLTaiChinh.pdb
+C:\Users\MyPC\source\repos\QLTaiChinh\QLTaiChinh\obj\Debug\QLTaiChinh.csprojAssemblyReference.cache
+C:\Users\MyPC\source\repos\QLTaiChinh\QLTaiChinh\obj\Debug\QLTaiChinh.Form1.resources
+C:\Users\MyPC\source\repos\QLTaiChinh\QLTaiChinh\obj\Debug\QLTaiChinh.Properties.Resources.resources
+C:\Users\MyPC\source\repos\QLTaiChinh\QLTaiChinh\obj\Debug\QLTaiChinh.csproj.GenerateResource.cache
+C:\Users\MyPC\source\repos\QLTaiChinh\QLTaiChinh\obj\Debug\QLTaiChinh.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\source\repos\QLTaiChinh\QLTaiChinh\obj\Debug\QLTaiChinh.exe
+C:\Users\MyPC\source\repos\QLTaiChinh\QLTaiChinh\obj\Debug\QLTaiChinh.pdb
